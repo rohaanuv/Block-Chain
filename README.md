@@ -16,5 +16,9 @@ how data insertion and delition work in block chain.
 
 
 # Refercence :- 
-Tools :- 
-https://truffleframework.com (Practical 2)
+# Tools :- 
+# Practical 2 :-
+1. Node js :- https://nodejs.org/en/ 
+2. Ganache :- https://truffleframework.com (for custome own block chain)
+3. Truffle framework :- npm install -g truffle@5.0.5 (for smart contract)
+4. Metamask chrome Extention :- https://metamask.io/
