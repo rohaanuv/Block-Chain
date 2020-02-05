@@ -22,3 +22,7 @@ how data insertion and delition work in block chain.
 2. Ganache :- https://truffleframework.com (for custome own block chain)
 3. Truffle framework :- npm install -g truffle@5.0.5 (for smart contract)
 4. Metamask chrome Extention :- https://metamask.io/
+# Practical 3 :-
+It is basic block chain with Single node.
+# Practical 4 :-
+It is basic block chain with single node and Add database Connectivity(Mongodb).
